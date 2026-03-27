@@ -18,7 +18,7 @@ This project explores how different kernel functions (Linear, Polynomial, and RB
 
 ## 📁 Files
 - svm_kernel_analysis.ipynb → Code and experiments
-- svm_kernel_analysis.pdf → Tutorial explanation
+- svm_kernel_analysis1.pdf → Tutorial explanation
 
 ## 📚 Dataset
 The Iris dataset is used (available in scikit-learn).
